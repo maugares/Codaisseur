@@ -1,0 +1,51 @@
+/* Main background */
+.body{
+  font-family:  "Verdana", Geneva, sans-serif;
+  padding: 40px;
+  background-color: darkorange;
+}
+
+/* Headers */
+.mainInfo{
+  padding: 20px;
+  background-color: darkorange;
+  text-align: center;
+  display: block;
+  background-color: darkred;
+  color: white;
+}
+
+  .myName{
+    font-size: 30px;
+  }
+
+  .myBirth{
+    font-size: 15px;
+  }
+
+/* Image */
+.pic{
+  background-color: darkred;
+  padding: 0 40px;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 40%;
+}
+
+/* Summary */
+.summary{
+  display: block;
+  font-size: 16px;
+  padding: 10px 40px;
+  text-align: center;
+  background-color: darkred;
+  color: white;
+}
+
+p{
+  padding: 10px 0px;
+}
